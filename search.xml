@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>自用latex语句</title>
+      <link href="/2025/03/20/selfuse/"/>
+      <url>/2025/03/20/selfuse/</url>
+      
+        <content type="html"><![CDATA[<h2 id="插入公式："><a href="#插入公式：" class="headerlink" title="插入公式："></a>插入公式：</h2><pre><code>\begin&#123;equation&#125;  \nonumber % 不编号\end&#123;equation&#125;</code></pre><h2 id="常用运算符号："><a href="#常用运算符号：" class="headerlink" title="常用运算符号："></a>常用运算符号：</h2><p>分式：<br>    \frac{x}{y}<br>根式：<br>    \sqrt[x]{y}<br>偏导数：<br>    \frac{\partial z}{\partial x}<br>最大值：<br>    \max(A,B,C)<br>求和：<br>    \sum_{i&#x3D;0}^n<br>求极限：<br>    \lim_{x\to\infty}<br>求积分：<br>    \int_0^\infty{fxdx}</p><h2 id="方程组："><a href="#方程组：" class="headerlink" title="方程组："></a>方程组：</h2><pre><code>\begin&#123;cases&#125;a_1x+b_1y+c_1z=d_1\\a_2x+b_2y+c_2z=d_2\\a_3x+b_3y+c_3z=d_3\\\end&#123;cases&#125;</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ZEQ </tag>
+            
+            <tag> 自用 </tag>
+            
+            <tag> Latex </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2025.2关西</title>
       <link href="/2025/03/01/2025-2-Kansai/"/>
       <url>/2025/03/01/2025-2-Kansai/</url>
