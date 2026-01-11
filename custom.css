@@ -1,0 +1,6 @@
+/* Butterfly 公告栏：隐藏小喇叭图标 */
+#announcement i,
+.announcement i,
+.fa-bullhorn {
+  display: none !important;
+}
